@@ -33,7 +33,7 @@
 - [ ] cosa fa precisamente autosafe
 - [ ] gli harmless_time sono gli autosafe_time?
 - [ ] cosa fa precisamente autosuspend?
-- [ ] se c'è attivo un timer gli altri sono disattivati?
+- [ ] se c'è attivo un timer gli altri sono disattivati? 
 - [ ] a quale timer sono collegate le harmless_keyword o sono dei timer a sè?
 - [ ] mailcount - quali mail conteggia?
 
